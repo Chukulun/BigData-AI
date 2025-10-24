@@ -62,3 +62,35 @@ El objetivo es adquirir competencias sólidas en análisis de datos, programaci�
 
 ## ⚙️ Estructura del repositorio
 
+
+---
+
+## 📚 Tecnologías y librerías principales
+
+| Categoría | Librerías |
+|------------|------------|
+| Análisis Numérico | NumPy, SciPy |
+| Manipulación de Datos | Pandas |
+| Visualización | Matplotlib, Seaborn, Plotly |
+| Machine Learning | scikit-learn |
+| Deep Learning | TensorFlow, Keras |
+| Big Data | PySpark, Hadoop |
+| Otros | Jupyter, Git, SQLAlchemy |
+
+---
+
+## 👨‍💻 Autor
+
+**[Chukulun](https://github.com/Chukulun)**  
+Desarrollador y entusiasta del análisis de datos, inteligencia artificial y la enseñanza tecnológica.
+
+---
+
+## 📄 Licencia
+
+Este proyecto se distribuye bajo la licencia **MIT**.  
+Puedes usar, modificar y compartir el contenido con atribución al autor original.
+
+---
+
+> “El dato es el nuevo petróleo, pero la inteligencia es la refinería.” ⚙️
